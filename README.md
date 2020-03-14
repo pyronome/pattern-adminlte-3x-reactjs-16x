@@ -4,15 +4,15 @@
 
 **Laravel** is a web application framework with expressive, elegant syntax. For further information about **Laravel** Framework, please visit https://laravel.com/.
 
-This repository contains Pyronome **AdminLTE 3.x on React.js 16.x** pattern basic information, documentation and issue tracker. For further information about this pattern, please visit https://pyronome.com/pyronome/adminlte-3x-reactjs-16x. In order to generate source code using this pattern, please visit [Pyronome Sign Up Page](https://pyronome.com/builder/signup), and create an account.
+This repository contains Pyronome **AdminLTE 3.x on React.js 16.x** pattern basic information, documentation and issue tracker. For further information about this pattern, please visit https://pyronome.com/pyronome/adminlte-3x-reactjs-16x-laravel-6x. In order to generate source code using this pattern, please visit [Pyronome Sign Up Page](https://pyronome.com/builder/signup), and create an account.
 
 ## Contributing
 
-Please use the [issue tracker](https://github.com/pyronome/pattern-adminlte-3x-reactjs-16x/issues) to report any bugs/typos or requests.
+Please use the [issue tracker](https://github.com/pyronome/pattern-adminlte-3x-reactjs-16x-laravel-6x/issues) to report any bugs/typos or requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see releases section of the [pattern overview page](https://pyronome.com/pyronome/adminlte-3x-reactjs-16x#Overview). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see releases section of the [pattern overview page](https://pyronome.com/pyronome/adminlte-3x-reactjs-16x-laravel-6x#Overview). 
 
 ## Authors
 
@@ -21,4 +21,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/pyronome/pattern-adminlte-3x-reactjs-16x/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pyronome/pattern-adminlte-3x-reactjs-16x-laravel-6x/blob/master/LICENSE) file for details
